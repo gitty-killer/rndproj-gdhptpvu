@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-gdhptpvu"",
+  ""goal"": ""dataset sampler for feature flags"",
+  ""language"": ""go"",
+  ""template"": ""go-cli""
+}
