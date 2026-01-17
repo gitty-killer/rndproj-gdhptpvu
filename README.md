@@ -1,4 +1,2 @@
-# rndproj-gdhptpvu
-
-Random go project for playground.
-
+# rndproj-gdhptpvu\n\nLanding page for a tiny product concept.\n
+New-FileDef
